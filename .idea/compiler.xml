@@ -10,8 +10,5 @@
         <module name="WebApp" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="WebApp" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
